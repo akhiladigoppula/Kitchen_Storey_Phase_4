@@ -1,0 +1,47 @@
+@charset "UTF-8";
+
+body{
+	background-image: url("https://t3.ftcdn.net/jpg/03/99/24/82/360_F_399248286_Ogm0T8CFeauN4Hdn42FqWfsCE02dJBbX.webp");
+	background-size:1370px 660px;
+}
+.error {
+	color: red;
+	text-decoration: blink;
+	text-shadow: red;
+	font-size: 20px;
+	font-weight: bold;
+	position: absolute;
+    top:220px;
+    left:70px;
+}
+div{
+	position: absolute;
+    top:170px;
+    left:130px;
+    color:white;
+	background-color: rgba(0,0,0,0.7);
+	padding:60px;
+	padding-bottom: 90px;
+	border:medium;
+	border-color: black;
+	border-radius: 50px;
+}
+#submit{
+	position: absolute;
+    top:260px;
+    left:120px;
+}
+#back{
+	background-color: rgba(0,0,0,0.5);
+	color:white;
+	padding:10px;
+	position: absolute;
+    top:10px;
+    right:10px;
+    padding-right: 15px;
+    
+}
+#back:hover{
+	background-color: rgba(0,0,0,1);
+}
+

@@ -1,0 +1,37 @@
+@charset "UTF-8";
+body{
+	background-image: url("https://img.freepik.com/free-vector/realistic-cheeseburger-chalkboard-background_79603-1044.jpg?w=2000");
+	background-size: 1370px 660px;
+}
+h2,h3,h4{
+	background-color: pink;
+	padding:20px;
+}
+table{
+	position:absolute;
+	top:280px;
+	right:300px;
+	left:300px;
+	background-color: rgba(255,255,255,0.8);
+	padding:20px;
+	font-size: 25px;
+}
+#add{
+	
+	padding:10px;
+	font-size: 20px;
+	margin:20px;
+}
+	#back{
+	background-color: #00ffff;
+	padding:10px;
+	position: absolute;
+	color:black;
+    top:10px;
+    right:10px;
+    padding-right: 15px;
+    
+}
+#back:hover{
+	opacity:0.8;
+	}

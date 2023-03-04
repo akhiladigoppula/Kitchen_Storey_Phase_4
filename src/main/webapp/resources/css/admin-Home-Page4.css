@@ -1,0 +1,90 @@
+@charset "UTF-8";
+body{
+	background-image: url("https://media.istockphoto.com/id/171148262/photo/assortment-of-fruits-and-vegetables-disposed-on-a-frame-shape.jpg?s=612x612&w=0&k=20&c=FxnvNm0xvMbqmAV8gvgGHO6LdKNzydf7hiZva860yLY=");
+	background-size:1370px 670px;
+}
+div{
+	position: absolute;
+    left:180px;
+    bottom:160px; 
+}
+h1{
+	position: absolute;
+    right:540px; 
+    top:40px; 
+    padding:20px;
+	background-color: pink;
+	color:PURPLE;
+	border-radius: 50px;
+}
+#which{
+	position: absolute;
+    right:480px; 
+    top:130px; 
+}
+#burger{
+	position: absolute;
+    right:940px; 
+    top:500px; 
+	padding:20px;
+	padding-bottom:10px;
+	padding-top:10px;
+	background-color: purple;
+	color:pink;
+	border-radius: 25px;
+}
+#pizza{
+	position: absolute;
+    right:600px; 
+    top:500px; 
+	padding:20px;
+	padding-bottom:10px;
+	padding-top:10px;
+	background-color: purple;
+	color:pink;
+	border-radius: 25px;
+}
+#desserts{
+	position: absolute;
+    right:225px; 
+    top:500px; 
+	padding:20px;
+	padding-bottom:10px;
+	padding-top:10px;
+	background-color: purple;
+	color:pink;
+	border-radius: 25px;
+}
+#changePassword{
+	background-color: rgba(0,0,0,0.5);
+	color:white;
+	padding:10px;
+	position: absolute;
+    top:10px;
+    right:50px;
+    padding-right: 15px;
+    border-radius:25px;
+}
+#changePassword:hover{
+	background-color: rgba(0,0,0,1);
+}
+#logout{
+	background-color: rgba(0,0,0,0.5);
+	color:white;
+	padding:10px;
+	position: absolute;
+    top:18px;
+    right:10px;
+    padding-right: 15px;
+    border-radius:25px;
+}
+#logout:hover{
+	background-color: rgba(0,0,0,1);
+}
+img{
+	opacity:0.7;
+}
+img:hover{
+	opacity: 1;
+	transform: scale(1.05);
+}

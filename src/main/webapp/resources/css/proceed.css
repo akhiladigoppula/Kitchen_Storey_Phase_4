@@ -1,0 +1,24 @@
+@charset "UTF-8";
+body{
+	background-image: url("https://htmlcolorcodes.com/assets/images/html-color-codes-color-tutorials-hero.jpg");
+	background-size: 1370px 660px
+}
+h2{
+	position:absolute;
+	top:40px;
+	left:500px;
+	padding:20px;
+	background-color: pink;
+}
+form{
+	background-color: rgba(0,0,0,0.6);
+	position:absolute;
+	top:150px;
+	left:540px;
+	padding:30px;
+	font-size: 20px;
+}
+.error{
+	font-weight: bold;
+	color:red;
+}
